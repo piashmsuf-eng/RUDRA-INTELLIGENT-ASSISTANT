@@ -1,0 +1,13 @@
+System Tools (200): set_volume_{0-100}, set_brightness_{0-100}, toggle_wifi, toggle_bluetooth, toggle_airplane, toggle_rotation, toggle_flashlight, set_ringer_mode, get_battery_level, etc.
+App Tools (200): open_app_{pkg}, close_app_{pkg}, force_stop_{pkg}, clear_cache_{pkg}, get_app_info_{pkg}
+Media Tools (100): play_media, pause_media, next_track, prev_track, seek_to, set_media_volume
+File Tools (100): read_file, write_file, delete_file, copy_file, move_file, list_files, get_file_info
+Network Tools (100): http_get, http_post, http_put, http_delete, download_file, upload_file, websocket_connect
+Contact Tools (50): read_contacts, search_contact, add_contact, update_contact, delete_contact
+SMS Tools (50): send_sms, read_sms, delete_sms, get_sms_threads
+Call Tools (50): make_call, answer_call, end_call, toggle_mute, toggle_speaker
+Calendar Tools (50): add_event, list_events, delete_event, update_event
+Location Tools (50): get_location, get_address, navigate_to, get_distance
+Clipboard Tools (20): copy_text, paste_text, get_clipboard
+Screenshot Tools (20): take_screenshot, save_screenshot, share_screenshot
+Shell Tools (10): exec_command (whitelisted)

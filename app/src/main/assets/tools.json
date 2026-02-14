@@ -1,0 +1,7387 @@
+[
+  {
+    "name": "set_volume_0",
+    "display_name": "Set Volume 0%",
+    "description": "Set device volume to 0%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_1",
+    "display_name": "Set Volume 1%",
+    "description": "Set device volume to 1%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_2",
+    "display_name": "Set Volume 2%",
+    "description": "Set device volume to 2%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_3",
+    "display_name": "Set Volume 3%",
+    "description": "Set device volume to 3%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_4",
+    "display_name": "Set Volume 4%",
+    "description": "Set device volume to 4%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_5",
+    "display_name": "Set Volume 5%",
+    "description": "Set device volume to 5%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_6",
+    "display_name": "Set Volume 6%",
+    "description": "Set device volume to 6%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_7",
+    "display_name": "Set Volume 7%",
+    "description": "Set device volume to 7%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_8",
+    "display_name": "Set Volume 8%",
+    "description": "Set device volume to 8%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_9",
+    "display_name": "Set Volume 9%",
+    "description": "Set device volume to 9%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_10",
+    "display_name": "Set Volume 10%",
+    "description": "Set device volume to 10%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_11",
+    "display_name": "Set Volume 11%",
+    "description": "Set device volume to 11%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_12",
+    "display_name": "Set Volume 12%",
+    "description": "Set device volume to 12%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_13",
+    "display_name": "Set Volume 13%",
+    "description": "Set device volume to 13%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_14",
+    "display_name": "Set Volume 14%",
+    "description": "Set device volume to 14%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_15",
+    "display_name": "Set Volume 15%",
+    "description": "Set device volume to 15%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_16",
+    "display_name": "Set Volume 16%",
+    "description": "Set device volume to 16%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_17",
+    "display_name": "Set Volume 17%",
+    "description": "Set device volume to 17%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_18",
+    "display_name": "Set Volume 18%",
+    "description": "Set device volume to 18%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_19",
+    "display_name": "Set Volume 19%",
+    "description": "Set device volume to 19%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_20",
+    "display_name": "Set Volume 20%",
+    "description": "Set device volume to 20%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_21",
+    "display_name": "Set Volume 21%",
+    "description": "Set device volume to 21%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_22",
+    "display_name": "Set Volume 22%",
+    "description": "Set device volume to 22%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_23",
+    "display_name": "Set Volume 23%",
+    "description": "Set device volume to 23%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_24",
+    "display_name": "Set Volume 24%",
+    "description": "Set device volume to 24%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_25",
+    "display_name": "Set Volume 25%",
+    "description": "Set device volume to 25%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_26",
+    "display_name": "Set Volume 26%",
+    "description": "Set device volume to 26%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_27",
+    "display_name": "Set Volume 27%",
+    "description": "Set device volume to 27%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_28",
+    "display_name": "Set Volume 28%",
+    "description": "Set device volume to 28%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_29",
+    "display_name": "Set Volume 29%",
+    "description": "Set device volume to 29%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_30",
+    "display_name": "Set Volume 30%",
+    "description": "Set device volume to 30%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_31",
+    "display_name": "Set Volume 31%",
+    "description": "Set device volume to 31%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_32",
+    "display_name": "Set Volume 32%",
+    "description": "Set device volume to 32%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_33",
+    "display_name": "Set Volume 33%",
+    "description": "Set device volume to 33%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_34",
+    "display_name": "Set Volume 34%",
+    "description": "Set device volume to 34%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_35",
+    "display_name": "Set Volume 35%",
+    "description": "Set device volume to 35%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_36",
+    "display_name": "Set Volume 36%",
+    "description": "Set device volume to 36%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_37",
+    "display_name": "Set Volume 37%",
+    "description": "Set device volume to 37%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_38",
+    "display_name": "Set Volume 38%",
+    "description": "Set device volume to 38%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_39",
+    "display_name": "Set Volume 39%",
+    "description": "Set device volume to 39%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_40",
+    "display_name": "Set Volume 40%",
+    "description": "Set device volume to 40%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_41",
+    "display_name": "Set Volume 41%",
+    "description": "Set device volume to 41%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_42",
+    "display_name": "Set Volume 42%",
+    "description": "Set device volume to 42%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_43",
+    "display_name": "Set Volume 43%",
+    "description": "Set device volume to 43%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_44",
+    "display_name": "Set Volume 44%",
+    "description": "Set device volume to 44%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_45",
+    "display_name": "Set Volume 45%",
+    "description": "Set device volume to 45%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_46",
+    "display_name": "Set Volume 46%",
+    "description": "Set device volume to 46%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_47",
+    "display_name": "Set Volume 47%",
+    "description": "Set device volume to 47%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_48",
+    "display_name": "Set Volume 48%",
+    "description": "Set device volume to 48%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_49",
+    "display_name": "Set Volume 49%",
+    "description": "Set device volume to 49%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_50",
+    "display_name": "Set Volume 50%",
+    "description": "Set device volume to 50%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_51",
+    "display_name": "Set Volume 51%",
+    "description": "Set device volume to 51%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_52",
+    "display_name": "Set Volume 52%",
+    "description": "Set device volume to 52%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_53",
+    "display_name": "Set Volume 53%",
+    "description": "Set device volume to 53%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_54",
+    "display_name": "Set Volume 54%",
+    "description": "Set device volume to 54%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_55",
+    "display_name": "Set Volume 55%",
+    "description": "Set device volume to 55%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_56",
+    "display_name": "Set Volume 56%",
+    "description": "Set device volume to 56%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_57",
+    "display_name": "Set Volume 57%",
+    "description": "Set device volume to 57%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_58",
+    "display_name": "Set Volume 58%",
+    "description": "Set device volume to 58%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_59",
+    "display_name": "Set Volume 59%",
+    "description": "Set device volume to 59%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_60",
+    "display_name": "Set Volume 60%",
+    "description": "Set device volume to 60%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_61",
+    "display_name": "Set Volume 61%",
+    "description": "Set device volume to 61%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_62",
+    "display_name": "Set Volume 62%",
+    "description": "Set device volume to 62%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_63",
+    "display_name": "Set Volume 63%",
+    "description": "Set device volume to 63%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_64",
+    "display_name": "Set Volume 64%",
+    "description": "Set device volume to 64%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_65",
+    "display_name": "Set Volume 65%",
+    "description": "Set device volume to 65%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_66",
+    "display_name": "Set Volume 66%",
+    "description": "Set device volume to 66%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_67",
+    "display_name": "Set Volume 67%",
+    "description": "Set device volume to 67%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_68",
+    "display_name": "Set Volume 68%",
+    "description": "Set device volume to 68%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_69",
+    "display_name": "Set Volume 69%",
+    "description": "Set device volume to 69%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_70",
+    "display_name": "Set Volume 70%",
+    "description": "Set device volume to 70%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_71",
+    "display_name": "Set Volume 71%",
+    "description": "Set device volume to 71%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_72",
+    "display_name": "Set Volume 72%",
+    "description": "Set device volume to 72%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_73",
+    "display_name": "Set Volume 73%",
+    "description": "Set device volume to 73%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_74",
+    "display_name": "Set Volume 74%",
+    "description": "Set device volume to 74%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_75",
+    "display_name": "Set Volume 75%",
+    "description": "Set device volume to 75%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_76",
+    "display_name": "Set Volume 76%",
+    "description": "Set device volume to 76%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_77",
+    "display_name": "Set Volume 77%",
+    "description": "Set device volume to 77%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_78",
+    "display_name": "Set Volume 78%",
+    "description": "Set device volume to 78%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_79",
+    "display_name": "Set Volume 79%",
+    "description": "Set device volume to 79%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_80",
+    "display_name": "Set Volume 80%",
+    "description": "Set device volume to 80%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_81",
+    "display_name": "Set Volume 81%",
+    "description": "Set device volume to 81%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_82",
+    "display_name": "Set Volume 82%",
+    "description": "Set device volume to 82%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_83",
+    "display_name": "Set Volume 83%",
+    "description": "Set device volume to 83%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_84",
+    "display_name": "Set Volume 84%",
+    "description": "Set device volume to 84%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_85",
+    "display_name": "Set Volume 85%",
+    "description": "Set device volume to 85%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_86",
+    "display_name": "Set Volume 86%",
+    "description": "Set device volume to 86%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_87",
+    "display_name": "Set Volume 87%",
+    "description": "Set device volume to 87%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_88",
+    "display_name": "Set Volume 88%",
+    "description": "Set device volume to 88%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_89",
+    "display_name": "Set Volume 89%",
+    "description": "Set device volume to 89%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_90",
+    "display_name": "Set Volume 90%",
+    "description": "Set device volume to 90%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_91",
+    "display_name": "Set Volume 91%",
+    "description": "Set device volume to 91%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_92",
+    "display_name": "Set Volume 92%",
+    "description": "Set device volume to 92%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_93",
+    "display_name": "Set Volume 93%",
+    "description": "Set device volume to 93%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_94",
+    "display_name": "Set Volume 94%",
+    "description": "Set device volume to 94%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_95",
+    "display_name": "Set Volume 95%",
+    "description": "Set device volume to 95%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_96",
+    "display_name": "Set Volume 96%",
+    "description": "Set device volume to 96%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_97",
+    "display_name": "Set Volume 97%",
+    "description": "Set device volume to 97%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_98",
+    "display_name": "Set Volume 98%",
+    "description": "Set device volume to 98%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_99",
+    "display_name": "Set Volume 99%",
+    "description": "Set device volume to 99%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_volume_100",
+    "display_name": "Set Volume 100%",
+    "description": "Set device volume to 100%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "MODIFY_AUDIO_SETTINGS"
+  },
+  {
+    "name": "set_brightness_0",
+    "display_name": "Set Brightness 0%",
+    "description": "Set screen brightness to 0%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_1",
+    "display_name": "Set Brightness 1%",
+    "description": "Set screen brightness to 1%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_2",
+    "display_name": "Set Brightness 2%",
+    "description": "Set screen brightness to 2%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_3",
+    "display_name": "Set Brightness 3%",
+    "description": "Set screen brightness to 3%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_4",
+    "display_name": "Set Brightness 4%",
+    "description": "Set screen brightness to 4%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_5",
+    "display_name": "Set Brightness 5%",
+    "description": "Set screen brightness to 5%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_6",
+    "display_name": "Set Brightness 6%",
+    "description": "Set screen brightness to 6%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_7",
+    "display_name": "Set Brightness 7%",
+    "description": "Set screen brightness to 7%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_8",
+    "display_name": "Set Brightness 8%",
+    "description": "Set screen brightness to 8%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_9",
+    "display_name": "Set Brightness 9%",
+    "description": "Set screen brightness to 9%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_10",
+    "display_name": "Set Brightness 10%",
+    "description": "Set screen brightness to 10%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_11",
+    "display_name": "Set Brightness 11%",
+    "description": "Set screen brightness to 11%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_12",
+    "display_name": "Set Brightness 12%",
+    "description": "Set screen brightness to 12%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_13",
+    "display_name": "Set Brightness 13%",
+    "description": "Set screen brightness to 13%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_14",
+    "display_name": "Set Brightness 14%",
+    "description": "Set screen brightness to 14%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_15",
+    "display_name": "Set Brightness 15%",
+    "description": "Set screen brightness to 15%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_16",
+    "display_name": "Set Brightness 16%",
+    "description": "Set screen brightness to 16%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_17",
+    "display_name": "Set Brightness 17%",
+    "description": "Set screen brightness to 17%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_18",
+    "display_name": "Set Brightness 18%",
+    "description": "Set screen brightness to 18%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_19",
+    "display_name": "Set Brightness 19%",
+    "description": "Set screen brightness to 19%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_20",
+    "display_name": "Set Brightness 20%",
+    "description": "Set screen brightness to 20%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_21",
+    "display_name": "Set Brightness 21%",
+    "description": "Set screen brightness to 21%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_22",
+    "display_name": "Set Brightness 22%",
+    "description": "Set screen brightness to 22%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_23",
+    "display_name": "Set Brightness 23%",
+    "description": "Set screen brightness to 23%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_24",
+    "display_name": "Set Brightness 24%",
+    "description": "Set screen brightness to 24%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_25",
+    "display_name": "Set Brightness 25%",
+    "description": "Set screen brightness to 25%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_26",
+    "display_name": "Set Brightness 26%",
+    "description": "Set screen brightness to 26%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_27",
+    "display_name": "Set Brightness 27%",
+    "description": "Set screen brightness to 27%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_28",
+    "display_name": "Set Brightness 28%",
+    "description": "Set screen brightness to 28%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_29",
+    "display_name": "Set Brightness 29%",
+    "description": "Set screen brightness to 29%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_30",
+    "display_name": "Set Brightness 30%",
+    "description": "Set screen brightness to 30%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_31",
+    "display_name": "Set Brightness 31%",
+    "description": "Set screen brightness to 31%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_32",
+    "display_name": "Set Brightness 32%",
+    "description": "Set screen brightness to 32%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_33",
+    "display_name": "Set Brightness 33%",
+    "description": "Set screen brightness to 33%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_34",
+    "display_name": "Set Brightness 34%",
+    "description": "Set screen brightness to 34%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_35",
+    "display_name": "Set Brightness 35%",
+    "description": "Set screen brightness to 35%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_36",
+    "display_name": "Set Brightness 36%",
+    "description": "Set screen brightness to 36%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_37",
+    "display_name": "Set Brightness 37%",
+    "description": "Set screen brightness to 37%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_38",
+    "display_name": "Set Brightness 38%",
+    "description": "Set screen brightness to 38%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_39",
+    "display_name": "Set Brightness 39%",
+    "description": "Set screen brightness to 39%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_40",
+    "display_name": "Set Brightness 40%",
+    "description": "Set screen brightness to 40%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_41",
+    "display_name": "Set Brightness 41%",
+    "description": "Set screen brightness to 41%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_42",
+    "display_name": "Set Brightness 42%",
+    "description": "Set screen brightness to 42%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_43",
+    "display_name": "Set Brightness 43%",
+    "description": "Set screen brightness to 43%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_44",
+    "display_name": "Set Brightness 44%",
+    "description": "Set screen brightness to 44%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_45",
+    "display_name": "Set Brightness 45%",
+    "description": "Set screen brightness to 45%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_46",
+    "display_name": "Set Brightness 46%",
+    "description": "Set screen brightness to 46%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_47",
+    "display_name": "Set Brightness 47%",
+    "description": "Set screen brightness to 47%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_48",
+    "display_name": "Set Brightness 48%",
+    "description": "Set screen brightness to 48%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_49",
+    "display_name": "Set Brightness 49%",
+    "description": "Set screen brightness to 49%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_50",
+    "display_name": "Set Brightness 50%",
+    "description": "Set screen brightness to 50%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_51",
+    "display_name": "Set Brightness 51%",
+    "description": "Set screen brightness to 51%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_52",
+    "display_name": "Set Brightness 52%",
+    "description": "Set screen brightness to 52%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_53",
+    "display_name": "Set Brightness 53%",
+    "description": "Set screen brightness to 53%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_54",
+    "display_name": "Set Brightness 54%",
+    "description": "Set screen brightness to 54%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_55",
+    "display_name": "Set Brightness 55%",
+    "description": "Set screen brightness to 55%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_56",
+    "display_name": "Set Brightness 56%",
+    "description": "Set screen brightness to 56%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_57",
+    "display_name": "Set Brightness 57%",
+    "description": "Set screen brightness to 57%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_58",
+    "display_name": "Set Brightness 58%",
+    "description": "Set screen brightness to 58%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_59",
+    "display_name": "Set Brightness 59%",
+    "description": "Set screen brightness to 59%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_60",
+    "display_name": "Set Brightness 60%",
+    "description": "Set screen brightness to 60%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_61",
+    "display_name": "Set Brightness 61%",
+    "description": "Set screen brightness to 61%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_62",
+    "display_name": "Set Brightness 62%",
+    "description": "Set screen brightness to 62%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_63",
+    "display_name": "Set Brightness 63%",
+    "description": "Set screen brightness to 63%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_64",
+    "display_name": "Set Brightness 64%",
+    "description": "Set screen brightness to 64%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_65",
+    "display_name": "Set Brightness 65%",
+    "description": "Set screen brightness to 65%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_66",
+    "display_name": "Set Brightness 66%",
+    "description": "Set screen brightness to 66%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_67",
+    "display_name": "Set Brightness 67%",
+    "description": "Set screen brightness to 67%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_68",
+    "display_name": "Set Brightness 68%",
+    "description": "Set screen brightness to 68%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_69",
+    "display_name": "Set Brightness 69%",
+    "description": "Set screen brightness to 69%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_70",
+    "display_name": "Set Brightness 70%",
+    "description": "Set screen brightness to 70%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_71",
+    "display_name": "Set Brightness 71%",
+    "description": "Set screen brightness to 71%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_72",
+    "display_name": "Set Brightness 72%",
+    "description": "Set screen brightness to 72%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_73",
+    "display_name": "Set Brightness 73%",
+    "description": "Set screen brightness to 73%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_74",
+    "display_name": "Set Brightness 74%",
+    "description": "Set screen brightness to 74%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_75",
+    "display_name": "Set Brightness 75%",
+    "description": "Set screen brightness to 75%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_76",
+    "display_name": "Set Brightness 76%",
+    "description": "Set screen brightness to 76%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_77",
+    "display_name": "Set Brightness 77%",
+    "description": "Set screen brightness to 77%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_78",
+    "display_name": "Set Brightness 78%",
+    "description": "Set screen brightness to 78%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_79",
+    "display_name": "Set Brightness 79%",
+    "description": "Set screen brightness to 79%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_80",
+    "display_name": "Set Brightness 80%",
+    "description": "Set screen brightness to 80%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_81",
+    "display_name": "Set Brightness 81%",
+    "description": "Set screen brightness to 81%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_82",
+    "display_name": "Set Brightness 82%",
+    "description": "Set screen brightness to 82%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_83",
+    "display_name": "Set Brightness 83%",
+    "description": "Set screen brightness to 83%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_84",
+    "display_name": "Set Brightness 84%",
+    "description": "Set screen brightness to 84%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_85",
+    "display_name": "Set Brightness 85%",
+    "description": "Set screen brightness to 85%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_86",
+    "display_name": "Set Brightness 86%",
+    "description": "Set screen brightness to 86%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_87",
+    "display_name": "Set Brightness 87%",
+    "description": "Set screen brightness to 87%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_88",
+    "display_name": "Set Brightness 88%",
+    "description": "Set screen brightness to 88%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_89",
+    "display_name": "Set Brightness 89%",
+    "description": "Set screen brightness to 89%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_90",
+    "display_name": "Set Brightness 90%",
+    "description": "Set screen brightness to 90%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_91",
+    "display_name": "Set Brightness 91%",
+    "description": "Set screen brightness to 91%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_92",
+    "display_name": "Set Brightness 92%",
+    "description": "Set screen brightness to 92%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_93",
+    "display_name": "Set Brightness 93%",
+    "description": "Set screen brightness to 93%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_94",
+    "display_name": "Set Brightness 94%",
+    "description": "Set screen brightness to 94%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_95",
+    "display_name": "Set Brightness 95%",
+    "description": "Set screen brightness to 95%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_96",
+    "display_name": "Set Brightness 96%",
+    "description": "Set screen brightness to 96%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_97",
+    "display_name": "Set Brightness 97%",
+    "description": "Set screen brightness to 97%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_98",
+    "display_name": "Set Brightness 98%",
+    "description": "Set screen brightness to 98%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_99",
+    "display_name": "Set Brightness 99%",
+    "description": "Set screen brightness to 99%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "set_brightness_100",
+    "display_name": "Set Brightness 100%",
+    "description": "Set screen brightness to 100%",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "toggle_wifi_on",
+    "display_name": "Turn Wifi ON",
+    "description": "Turn wifi on",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "toggle_wifi_off",
+    "display_name": "Turn Wifi OFF",
+    "description": "Turn wifi off",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "toggle_bluetooth_on",
+    "display_name": "Turn Bluetooth ON",
+    "description": "Turn bluetooth on",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "toggle_bluetooth_off",
+    "display_name": "Turn Bluetooth OFF",
+    "description": "Turn bluetooth off",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "toggle_airplane_mode_on",
+    "display_name": "Turn Airplane Mode ON",
+    "description": "Turn airplane mode on",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "toggle_airplane_mode_off",
+    "display_name": "Turn Airplane Mode OFF",
+    "description": "Turn airplane mode off",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "toggle_rotation_on",
+    "display_name": "Turn Rotation ON",
+    "description": "Turn rotation on",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "toggle_rotation_off",
+    "display_name": "Turn Rotation OFF",
+    "description": "Turn rotation off",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "toggle_flashlight_on",
+    "display_name": "Turn Flashlight ON",
+    "description": "Turn flashlight on",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "toggle_flashlight_off",
+    "display_name": "Turn Flashlight OFF",
+    "description": "Turn flashlight off",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "toggle_silent_mode_on",
+    "display_name": "Turn Silent Mode ON",
+    "description": "Turn silent mode on",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "toggle_silent_mode_off",
+    "display_name": "Turn Silent Mode OFF",
+    "description": "Turn silent mode off",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "toggle_vibrate_on",
+    "display_name": "Turn Vibrate ON",
+    "description": "Turn vibrate on",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "toggle_vibrate_off",
+    "display_name": "Turn Vibrate OFF",
+    "description": "Turn vibrate off",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "toggle_do_not_disturb_on",
+    "display_name": "Turn Do Not Disturb ON",
+    "description": "Turn do not disturb on",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "toggle_do_not_disturb_off",
+    "display_name": "Turn Do Not Disturb OFF",
+    "description": "Turn do not disturb off",
+    "category": "system",
+    "params": [],
+    "requires_permission": "WRITE_SETTINGS"
+  },
+  {
+    "name": "media_play",
+    "display_name": "Media Play",
+    "description": "Play media playback",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "media_pause",
+    "display_name": "Media Pause",
+    "description": "Pause media playback",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "media_next",
+    "display_name": "Media Next",
+    "description": "Next media playback",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "media_previous",
+    "display_name": "Media Previous",
+    "description": "Previous media playback",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "media_stop",
+    "display_name": "Media Stop",
+    "description": "Stop media playback",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "media_shuffle_on",
+    "display_name": "Media Shuffle On",
+    "description": "Shuffle On media playback",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "media_shuffle_off",
+    "display_name": "Media Shuffle Off",
+    "description": "Shuffle Off media playback",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "media_repeat_on",
+    "display_name": "Media Repeat On",
+    "description": "Repeat On media playback",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "media_repeat_off",
+    "display_name": "Media Repeat Off",
+    "description": "Repeat Off media playback",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "set_media_volume_0",
+    "display_name": "Set Media Volume 0%",
+    "description": "Set media volume to 0%",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "set_media_volume_10",
+    "display_name": "Set Media Volume 10%",
+    "description": "Set media volume to 10%",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "set_media_volume_20",
+    "display_name": "Set Media Volume 20%",
+    "description": "Set media volume to 20%",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "set_media_volume_30",
+    "display_name": "Set Media Volume 30%",
+    "description": "Set media volume to 30%",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "set_media_volume_40",
+    "display_name": "Set Media Volume 40%",
+    "description": "Set media volume to 40%",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "set_media_volume_50",
+    "display_name": "Set Media Volume 50%",
+    "description": "Set media volume to 50%",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "set_media_volume_60",
+    "display_name": "Set Media Volume 60%",
+    "description": "Set media volume to 60%",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "set_media_volume_70",
+    "display_name": "Set Media Volume 70%",
+    "description": "Set media volume to 70%",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "set_media_volume_80",
+    "display_name": "Set Media Volume 80%",
+    "description": "Set media volume to 80%",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "set_media_volume_90",
+    "display_name": "Set Media Volume 90%",
+    "description": "Set media volume to 90%",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "set_media_volume_100",
+    "display_name": "Set Media Volume 100%",
+    "description": "Set media volume to 100%",
+    "category": "media",
+    "params": []
+  },
+  {
+    "name": "http_get",
+    "display_name": "HTTP GET",
+    "description": "Make HTTP GET request",
+    "category": "network",
+    "params": [
+      {
+        "name": "url",
+        "type": "string",
+        "description": "URL",
+        "required": true
+      },
+      {
+        "name": "body",
+        "type": "string",
+        "description": "Request body",
+        "required": false
+      }
+    ]
+  },
+  {
+    "name": "http_post",
+    "display_name": "HTTP POST",
+    "description": "Make HTTP POST request",
+    "category": "network",
+    "params": [
+      {
+        "name": "url",
+        "type": "string",
+        "description": "URL",
+        "required": true
+      },
+      {
+        "name": "body",
+        "type": "string",
+        "description": "Request body",
+        "required": false
+      }
+    ]
+  },
+  {
+    "name": "http_put",
+    "display_name": "HTTP PUT",
+    "description": "Make HTTP PUT request",
+    "category": "network",
+    "params": [
+      {
+        "name": "url",
+        "type": "string",
+        "description": "URL",
+        "required": true
+      },
+      {
+        "name": "body",
+        "type": "string",
+        "description": "Request body",
+        "required": false
+      }
+    ]
+  },
+  {
+    "name": "http_delete",
+    "display_name": "HTTP DELETE",
+    "description": "Make HTTP DELETE request",
+    "category": "network",
+    "params": [
+      {
+        "name": "url",
+        "type": "string",
+        "description": "URL",
+        "required": true
+      },
+      {
+        "name": "body",
+        "type": "string",
+        "description": "Request body",
+        "required": false
+      }
+    ]
+  },
+  {
+    "name": "http_patch",
+    "display_name": "HTTP PATCH",
+    "description": "Make HTTP PATCH request",
+    "category": "network",
+    "params": [
+      {
+        "name": "url",
+        "type": "string",
+        "description": "URL",
+        "required": true
+      },
+      {
+        "name": "body",
+        "type": "string",
+        "description": "Request body",
+        "required": false
+      }
+    ]
+  },
+  {
+    "name": "send_sms",
+    "display_name": "Send SMS",
+    "description": "Send text message",
+    "category": "communication",
+    "params": [
+      {
+        "name": "number",
+        "type": "string",
+        "description": "Phone number",
+        "required": true
+      },
+      {
+        "name": "message",
+        "type": "string",
+        "description": "Message text",
+        "required": true
+      }
+    ],
+    "requires_permission": "SEND_SMS"
+  },
+  {
+    "name": "make_call",
+    "display_name": "Make Call",
+    "description": "Make phone call",
+    "category": "communication",
+    "params": [
+      {
+        "name": "number",
+        "type": "string",
+        "description": "Phone number",
+        "required": true
+      }
+    ],
+    "requires_permission": "CALL_PHONE"
+  },
+  {
+    "name": "read_contacts",
+    "display_name": "Read Contacts",
+    "description": "Read device contacts",
+    "category": "communication",
+    "params": [],
+    "requires_permission": "READ_CONTACTS"
+  },
+  {
+    "name": "file_read",
+    "display_name": "File Read",
+    "description": "Read file operation",
+    "category": "file",
+    "params": [
+      {
+        "name": "path",
+        "type": "string",
+        "description": "File path",
+        "required": true
+      }
+    ]
+  },
+  {
+    "name": "file_write",
+    "display_name": "File Write",
+    "description": "Write file operation",
+    "category": "file",
+    "params": [
+      {
+        "name": "path",
+        "type": "string",
+        "description": "File path",
+        "required": true
+      }
+    ]
+  },
+  {
+    "name": "file_delete",
+    "display_name": "File Delete",
+    "description": "Delete file operation",
+    "category": "file",
+    "params": [
+      {
+        "name": "path",
+        "type": "string",
+        "description": "File path",
+        "required": true
+      }
+    ]
+  },
+  {
+    "name": "file_copy",
+    "display_name": "File Copy",
+    "description": "Copy file operation",
+    "category": "file",
+    "params": [
+      {
+        "name": "path",
+        "type": "string",
+        "description": "File path",
+        "required": true
+      }
+    ]
+  },
+  {
+    "name": "file_move",
+    "display_name": "File Move",
+    "description": "Move file operation",
+    "category": "file",
+    "params": [
+      {
+        "name": "path",
+        "type": "string",
+        "description": "File path",
+        "required": true
+      }
+    ]
+  },
+  {
+    "name": "file_list",
+    "display_name": "File List",
+    "description": "List file operation",
+    "category": "file",
+    "params": [
+      {
+        "name": "path",
+        "type": "string",
+        "description": "File path",
+        "required": true
+      }
+    ]
+  },
+  {
+    "name": "file_mkdir",
+    "display_name": "File Mkdir",
+    "description": "Mkdir file operation",
+    "category": "file",
+    "params": [
+      {
+        "name": "path",
+        "type": "string",
+        "description": "File path",
+        "required": true
+      }
+    ]
+  },
+  {
+    "name": "file_exists",
+    "display_name": "File Exists",
+    "description": "Exists file operation",
+    "category": "file",
+    "params": [
+      {
+        "name": "path",
+        "type": "string",
+        "description": "File path",
+        "required": true
+      }
+    ]
+  },
+  {
+    "name": "get_location",
+    "display_name": "Get Location",
+    "description": "Get current GPS coordinates",
+    "category": "location",
+    "params": [],
+    "requires_permission": "ACCESS_FINE_LOCATION"
+  },
+  {
+    "name": "navigate_to",
+    "display_name": "Navigate To",
+    "description": "Navigate to address",
+    "category": "location",
+    "params": [
+      {
+        "name": "destination",
+        "type": "string",
+        "description": "Destination",
+        "required": true
+      }
+    ]
+  },
+  {
+    "name": "add_calendar_event",
+    "display_name": "Add Event",
+    "description": "Add calendar event",
+    "category": "calendar",
+    "params": [
+      {
+        "name": "title",
+        "type": "string",
+        "description": "Event title",
+        "required": true
+      }
+    ],
+    "requires_permission": "WRITE_CALENDAR"
+  },
+  {
+    "name": "copy_to_clipboard",
+    "display_name": "Copy to Clipboard",
+    "description": "Copy text to clipboard",
+    "category": "clipboard",
+    "params": [
+      {
+        "name": "text",
+        "type": "string",
+        "description": "Text to copy",
+        "required": true
+      }
+    ]
+  },
+  {
+    "name": "get_clipboard",
+    "display_name": "Get Clipboard",
+    "description": "Get clipboard text",
+    "category": "clipboard",
+    "params": []
+  },
+  {
+    "name": "take_screenshot",
+    "display_name": "Take Screenshot",
+    "description": "Capture screen",
+    "category": "screenshot",
+    "params": []
+  },
+  {
+    "name": "whatsapp_open",
+    "display_name": "Whatsapp Open",
+    "description": "Open whatsapp",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "whatsapp_close",
+    "display_name": "Whatsapp Close",
+    "description": "Close whatsapp",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "whatsapp_clear_cache",
+    "display_name": "Whatsapp Clear Cache",
+    "description": "Clear Cache whatsapp",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "whatsapp_get_info",
+    "display_name": "Whatsapp Get Info",
+    "description": "Get Info whatsapp",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "youtube_open",
+    "display_name": "Youtube Open",
+    "description": "Open youtube",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "youtube_close",
+    "display_name": "Youtube Close",
+    "description": "Close youtube",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "youtube_clear_cache",
+    "display_name": "Youtube Clear Cache",
+    "description": "Clear Cache youtube",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "youtube_get_info",
+    "display_name": "Youtube Get Info",
+    "description": "Get Info youtube",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "chrome_open",
+    "display_name": "Chrome Open",
+    "description": "Open chrome",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "chrome_close",
+    "display_name": "Chrome Close",
+    "description": "Close chrome",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "chrome_clear_cache",
+    "display_name": "Chrome Clear Cache",
+    "description": "Clear Cache chrome",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "chrome_get_info",
+    "display_name": "Chrome Get Info",
+    "description": "Get Info chrome",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "facebook_open",
+    "display_name": "Facebook Open",
+    "description": "Open facebook",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "facebook_close",
+    "display_name": "Facebook Close",
+    "description": "Close facebook",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "facebook_clear_cache",
+    "display_name": "Facebook Clear Cache",
+    "description": "Clear Cache facebook",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "facebook_get_info",
+    "display_name": "Facebook Get Info",
+    "description": "Get Info facebook",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "instagram_open",
+    "display_name": "Instagram Open",
+    "description": "Open instagram",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "instagram_close",
+    "display_name": "Instagram Close",
+    "description": "Close instagram",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "instagram_clear_cache",
+    "display_name": "Instagram Clear Cache",
+    "description": "Clear Cache instagram",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "instagram_get_info",
+    "display_name": "Instagram Get Info",
+    "description": "Get Info instagram",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "telegram_open",
+    "display_name": "Telegram Open",
+    "description": "Open telegram",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "telegram_close",
+    "display_name": "Telegram Close",
+    "description": "Close telegram",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "telegram_clear_cache",
+    "display_name": "Telegram Clear Cache",
+    "description": "Clear Cache telegram",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "telegram_get_info",
+    "display_name": "Telegram Get Info",
+    "description": "Get Info telegram",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "gmail_open",
+    "display_name": "Gmail Open",
+    "description": "Open gmail",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "gmail_close",
+    "display_name": "Gmail Close",
+    "description": "Close gmail",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "gmail_clear_cache",
+    "display_name": "Gmail Clear Cache",
+    "description": "Clear Cache gmail",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "gmail_get_info",
+    "display_name": "Gmail Get Info",
+    "description": "Get Info gmail",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "maps_open",
+    "display_name": "Maps Open",
+    "description": "Open maps",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "maps_close",
+    "display_name": "Maps Close",
+    "description": "Close maps",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "maps_clear_cache",
+    "display_name": "Maps Clear Cache",
+    "description": "Clear Cache maps",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "maps_get_info",
+    "display_name": "Maps Get Info",
+    "description": "Get Info maps",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "spotify_open",
+    "display_name": "Spotify Open",
+    "description": "Open spotify",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "spotify_close",
+    "display_name": "Spotify Close",
+    "description": "Close spotify",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "spotify_clear_cache",
+    "display_name": "Spotify Clear Cache",
+    "description": "Clear Cache spotify",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "spotify_get_info",
+    "display_name": "Spotify Get Info",
+    "description": "Get Info spotify",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "tiktok_open",
+    "display_name": "Tiktok Open",
+    "description": "Open tiktok",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "tiktok_close",
+    "display_name": "Tiktok Close",
+    "description": "Close tiktok",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "tiktok_clear_cache",
+    "display_name": "Tiktok Clear Cache",
+    "description": "Clear Cache tiktok",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "tiktok_get_info",
+    "display_name": "Tiktok Get Info",
+    "description": "Get Info tiktok",
+    "category": "app",
+    "params": []
+  },
+  {
+    "name": "tool_300",
+    "display_name": "Tool 300",
+    "description": "Generic tool 300",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_301",
+    "display_name": "Tool 301",
+    "description": "Generic tool 301",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_302",
+    "display_name": "Tool 302",
+    "description": "Generic tool 302",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_303",
+    "display_name": "Tool 303",
+    "description": "Generic tool 303",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_304",
+    "display_name": "Tool 304",
+    "description": "Generic tool 304",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_305",
+    "display_name": "Tool 305",
+    "description": "Generic tool 305",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_306",
+    "display_name": "Tool 306",
+    "description": "Generic tool 306",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_307",
+    "display_name": "Tool 307",
+    "description": "Generic tool 307",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_308",
+    "display_name": "Tool 308",
+    "description": "Generic tool 308",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_309",
+    "display_name": "Tool 309",
+    "description": "Generic tool 309",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_310",
+    "display_name": "Tool 310",
+    "description": "Generic tool 310",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_311",
+    "display_name": "Tool 311",
+    "description": "Generic tool 311",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_312",
+    "display_name": "Tool 312",
+    "description": "Generic tool 312",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_313",
+    "display_name": "Tool 313",
+    "description": "Generic tool 313",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_314",
+    "display_name": "Tool 314",
+    "description": "Generic tool 314",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_315",
+    "display_name": "Tool 315",
+    "description": "Generic tool 315",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_316",
+    "display_name": "Tool 316",
+    "description": "Generic tool 316",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_317",
+    "display_name": "Tool 317",
+    "description": "Generic tool 317",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_318",
+    "display_name": "Tool 318",
+    "description": "Generic tool 318",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_319",
+    "display_name": "Tool 319",
+    "description": "Generic tool 319",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_320",
+    "display_name": "Tool 320",
+    "description": "Generic tool 320",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_321",
+    "display_name": "Tool 321",
+    "description": "Generic tool 321",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_322",
+    "display_name": "Tool 322",
+    "description": "Generic tool 322",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_323",
+    "display_name": "Tool 323",
+    "description": "Generic tool 323",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_324",
+    "display_name": "Tool 324",
+    "description": "Generic tool 324",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_325",
+    "display_name": "Tool 325",
+    "description": "Generic tool 325",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_326",
+    "display_name": "Tool 326",
+    "description": "Generic tool 326",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_327",
+    "display_name": "Tool 327",
+    "description": "Generic tool 327",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_328",
+    "display_name": "Tool 328",
+    "description": "Generic tool 328",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_329",
+    "display_name": "Tool 329",
+    "description": "Generic tool 329",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_330",
+    "display_name": "Tool 330",
+    "description": "Generic tool 330",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_331",
+    "display_name": "Tool 331",
+    "description": "Generic tool 331",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_332",
+    "display_name": "Tool 332",
+    "description": "Generic tool 332",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_333",
+    "display_name": "Tool 333",
+    "description": "Generic tool 333",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_334",
+    "display_name": "Tool 334",
+    "description": "Generic tool 334",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_335",
+    "display_name": "Tool 335",
+    "description": "Generic tool 335",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_336",
+    "display_name": "Tool 336",
+    "description": "Generic tool 336",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_337",
+    "display_name": "Tool 337",
+    "description": "Generic tool 337",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_338",
+    "display_name": "Tool 338",
+    "description": "Generic tool 338",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_339",
+    "display_name": "Tool 339",
+    "description": "Generic tool 339",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_340",
+    "display_name": "Tool 340",
+    "description": "Generic tool 340",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_341",
+    "display_name": "Tool 341",
+    "description": "Generic tool 341",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_342",
+    "display_name": "Tool 342",
+    "description": "Generic tool 342",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_343",
+    "display_name": "Tool 343",
+    "description": "Generic tool 343",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_344",
+    "display_name": "Tool 344",
+    "description": "Generic tool 344",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_345",
+    "display_name": "Tool 345",
+    "description": "Generic tool 345",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_346",
+    "display_name": "Tool 346",
+    "description": "Generic tool 346",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_347",
+    "display_name": "Tool 347",
+    "description": "Generic tool 347",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_348",
+    "display_name": "Tool 348",
+    "description": "Generic tool 348",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_349",
+    "display_name": "Tool 349",
+    "description": "Generic tool 349",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_350",
+    "display_name": "Tool 350",
+    "description": "Generic tool 350",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_351",
+    "display_name": "Tool 351",
+    "description": "Generic tool 351",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_352",
+    "display_name": "Tool 352",
+    "description": "Generic tool 352",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_353",
+    "display_name": "Tool 353",
+    "description": "Generic tool 353",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_354",
+    "display_name": "Tool 354",
+    "description": "Generic tool 354",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_355",
+    "display_name": "Tool 355",
+    "description": "Generic tool 355",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_356",
+    "display_name": "Tool 356",
+    "description": "Generic tool 356",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_357",
+    "display_name": "Tool 357",
+    "description": "Generic tool 357",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_358",
+    "display_name": "Tool 358",
+    "description": "Generic tool 358",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_359",
+    "display_name": "Tool 359",
+    "description": "Generic tool 359",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_360",
+    "display_name": "Tool 360",
+    "description": "Generic tool 360",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_361",
+    "display_name": "Tool 361",
+    "description": "Generic tool 361",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_362",
+    "display_name": "Tool 362",
+    "description": "Generic tool 362",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_363",
+    "display_name": "Tool 363",
+    "description": "Generic tool 363",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_364",
+    "display_name": "Tool 364",
+    "description": "Generic tool 364",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_365",
+    "display_name": "Tool 365",
+    "description": "Generic tool 365",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_366",
+    "display_name": "Tool 366",
+    "description": "Generic tool 366",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_367",
+    "display_name": "Tool 367",
+    "description": "Generic tool 367",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_368",
+    "display_name": "Tool 368",
+    "description": "Generic tool 368",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_369",
+    "display_name": "Tool 369",
+    "description": "Generic tool 369",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_370",
+    "display_name": "Tool 370",
+    "description": "Generic tool 370",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_371",
+    "display_name": "Tool 371",
+    "description": "Generic tool 371",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_372",
+    "display_name": "Tool 372",
+    "description": "Generic tool 372",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_373",
+    "display_name": "Tool 373",
+    "description": "Generic tool 373",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_374",
+    "display_name": "Tool 374",
+    "description": "Generic tool 374",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_375",
+    "display_name": "Tool 375",
+    "description": "Generic tool 375",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_376",
+    "display_name": "Tool 376",
+    "description": "Generic tool 376",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_377",
+    "display_name": "Tool 377",
+    "description": "Generic tool 377",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_378",
+    "display_name": "Tool 378",
+    "description": "Generic tool 378",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_379",
+    "display_name": "Tool 379",
+    "description": "Generic tool 379",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_380",
+    "display_name": "Tool 380",
+    "description": "Generic tool 380",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_381",
+    "display_name": "Tool 381",
+    "description": "Generic tool 381",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_382",
+    "display_name": "Tool 382",
+    "description": "Generic tool 382",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_383",
+    "display_name": "Tool 383",
+    "description": "Generic tool 383",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_384",
+    "display_name": "Tool 384",
+    "description": "Generic tool 384",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_385",
+    "display_name": "Tool 385",
+    "description": "Generic tool 385",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_386",
+    "display_name": "Tool 386",
+    "description": "Generic tool 386",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_387",
+    "display_name": "Tool 387",
+    "description": "Generic tool 387",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_388",
+    "display_name": "Tool 388",
+    "description": "Generic tool 388",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_389",
+    "display_name": "Tool 389",
+    "description": "Generic tool 389",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_390",
+    "display_name": "Tool 390",
+    "description": "Generic tool 390",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_391",
+    "display_name": "Tool 391",
+    "description": "Generic tool 391",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_392",
+    "display_name": "Tool 392",
+    "description": "Generic tool 392",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_393",
+    "display_name": "Tool 393",
+    "description": "Generic tool 393",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_394",
+    "display_name": "Tool 394",
+    "description": "Generic tool 394",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_395",
+    "display_name": "Tool 395",
+    "description": "Generic tool 395",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_396",
+    "display_name": "Tool 396",
+    "description": "Generic tool 396",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_397",
+    "display_name": "Tool 397",
+    "description": "Generic tool 397",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_398",
+    "display_name": "Tool 398",
+    "description": "Generic tool 398",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_399",
+    "display_name": "Tool 399",
+    "description": "Generic tool 399",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_400",
+    "display_name": "Tool 400",
+    "description": "Generic tool 400",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_401",
+    "display_name": "Tool 401",
+    "description": "Generic tool 401",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_402",
+    "display_name": "Tool 402",
+    "description": "Generic tool 402",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_403",
+    "display_name": "Tool 403",
+    "description": "Generic tool 403",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_404",
+    "display_name": "Tool 404",
+    "description": "Generic tool 404",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_405",
+    "display_name": "Tool 405",
+    "description": "Generic tool 405",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_406",
+    "display_name": "Tool 406",
+    "description": "Generic tool 406",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_407",
+    "display_name": "Tool 407",
+    "description": "Generic tool 407",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_408",
+    "display_name": "Tool 408",
+    "description": "Generic tool 408",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_409",
+    "display_name": "Tool 409",
+    "description": "Generic tool 409",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_410",
+    "display_name": "Tool 410",
+    "description": "Generic tool 410",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_411",
+    "display_name": "Tool 411",
+    "description": "Generic tool 411",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_412",
+    "display_name": "Tool 412",
+    "description": "Generic tool 412",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_413",
+    "display_name": "Tool 413",
+    "description": "Generic tool 413",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_414",
+    "display_name": "Tool 414",
+    "description": "Generic tool 414",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_415",
+    "display_name": "Tool 415",
+    "description": "Generic tool 415",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_416",
+    "display_name": "Tool 416",
+    "description": "Generic tool 416",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_417",
+    "display_name": "Tool 417",
+    "description": "Generic tool 417",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_418",
+    "display_name": "Tool 418",
+    "description": "Generic tool 418",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_419",
+    "display_name": "Tool 419",
+    "description": "Generic tool 419",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_420",
+    "display_name": "Tool 420",
+    "description": "Generic tool 420",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_421",
+    "display_name": "Tool 421",
+    "description": "Generic tool 421",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_422",
+    "display_name": "Tool 422",
+    "description": "Generic tool 422",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_423",
+    "display_name": "Tool 423",
+    "description": "Generic tool 423",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_424",
+    "display_name": "Tool 424",
+    "description": "Generic tool 424",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_425",
+    "display_name": "Tool 425",
+    "description": "Generic tool 425",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_426",
+    "display_name": "Tool 426",
+    "description": "Generic tool 426",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_427",
+    "display_name": "Tool 427",
+    "description": "Generic tool 427",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_428",
+    "display_name": "Tool 428",
+    "description": "Generic tool 428",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_429",
+    "display_name": "Tool 429",
+    "description": "Generic tool 429",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_430",
+    "display_name": "Tool 430",
+    "description": "Generic tool 430",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_431",
+    "display_name": "Tool 431",
+    "description": "Generic tool 431",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_432",
+    "display_name": "Tool 432",
+    "description": "Generic tool 432",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_433",
+    "display_name": "Tool 433",
+    "description": "Generic tool 433",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_434",
+    "display_name": "Tool 434",
+    "description": "Generic tool 434",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_435",
+    "display_name": "Tool 435",
+    "description": "Generic tool 435",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_436",
+    "display_name": "Tool 436",
+    "description": "Generic tool 436",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_437",
+    "display_name": "Tool 437",
+    "description": "Generic tool 437",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_438",
+    "display_name": "Tool 438",
+    "description": "Generic tool 438",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_439",
+    "display_name": "Tool 439",
+    "description": "Generic tool 439",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_440",
+    "display_name": "Tool 440",
+    "description": "Generic tool 440",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_441",
+    "display_name": "Tool 441",
+    "description": "Generic tool 441",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_442",
+    "display_name": "Tool 442",
+    "description": "Generic tool 442",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_443",
+    "display_name": "Tool 443",
+    "description": "Generic tool 443",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_444",
+    "display_name": "Tool 444",
+    "description": "Generic tool 444",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_445",
+    "display_name": "Tool 445",
+    "description": "Generic tool 445",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_446",
+    "display_name": "Tool 446",
+    "description": "Generic tool 446",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_447",
+    "display_name": "Tool 447",
+    "description": "Generic tool 447",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_448",
+    "display_name": "Tool 448",
+    "description": "Generic tool 448",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_449",
+    "display_name": "Tool 449",
+    "description": "Generic tool 449",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_450",
+    "display_name": "Tool 450",
+    "description": "Generic tool 450",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_451",
+    "display_name": "Tool 451",
+    "description": "Generic tool 451",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_452",
+    "display_name": "Tool 452",
+    "description": "Generic tool 452",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_453",
+    "display_name": "Tool 453",
+    "description": "Generic tool 453",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_454",
+    "display_name": "Tool 454",
+    "description": "Generic tool 454",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_455",
+    "display_name": "Tool 455",
+    "description": "Generic tool 455",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_456",
+    "display_name": "Tool 456",
+    "description": "Generic tool 456",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_457",
+    "display_name": "Tool 457",
+    "description": "Generic tool 457",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_458",
+    "display_name": "Tool 458",
+    "description": "Generic tool 458",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_459",
+    "display_name": "Tool 459",
+    "description": "Generic tool 459",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_460",
+    "display_name": "Tool 460",
+    "description": "Generic tool 460",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_461",
+    "display_name": "Tool 461",
+    "description": "Generic tool 461",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_462",
+    "display_name": "Tool 462",
+    "description": "Generic tool 462",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_463",
+    "display_name": "Tool 463",
+    "description": "Generic tool 463",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_464",
+    "display_name": "Tool 464",
+    "description": "Generic tool 464",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_465",
+    "display_name": "Tool 465",
+    "description": "Generic tool 465",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_466",
+    "display_name": "Tool 466",
+    "description": "Generic tool 466",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_467",
+    "display_name": "Tool 467",
+    "description": "Generic tool 467",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_468",
+    "display_name": "Tool 468",
+    "description": "Generic tool 468",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_469",
+    "display_name": "Tool 469",
+    "description": "Generic tool 469",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_470",
+    "display_name": "Tool 470",
+    "description": "Generic tool 470",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_471",
+    "display_name": "Tool 471",
+    "description": "Generic tool 471",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_472",
+    "display_name": "Tool 472",
+    "description": "Generic tool 472",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_473",
+    "display_name": "Tool 473",
+    "description": "Generic tool 473",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_474",
+    "display_name": "Tool 474",
+    "description": "Generic tool 474",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_475",
+    "display_name": "Tool 475",
+    "description": "Generic tool 475",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_476",
+    "display_name": "Tool 476",
+    "description": "Generic tool 476",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_477",
+    "display_name": "Tool 477",
+    "description": "Generic tool 477",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_478",
+    "display_name": "Tool 478",
+    "description": "Generic tool 478",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_479",
+    "display_name": "Tool 479",
+    "description": "Generic tool 479",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_480",
+    "display_name": "Tool 480",
+    "description": "Generic tool 480",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_481",
+    "display_name": "Tool 481",
+    "description": "Generic tool 481",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_482",
+    "display_name": "Tool 482",
+    "description": "Generic tool 482",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_483",
+    "display_name": "Tool 483",
+    "description": "Generic tool 483",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_484",
+    "display_name": "Tool 484",
+    "description": "Generic tool 484",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_485",
+    "display_name": "Tool 485",
+    "description": "Generic tool 485",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_486",
+    "display_name": "Tool 486",
+    "description": "Generic tool 486",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_487",
+    "display_name": "Tool 487",
+    "description": "Generic tool 487",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_488",
+    "display_name": "Tool 488",
+    "description": "Generic tool 488",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_489",
+    "display_name": "Tool 489",
+    "description": "Generic tool 489",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_490",
+    "display_name": "Tool 490",
+    "description": "Generic tool 490",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_491",
+    "display_name": "Tool 491",
+    "description": "Generic tool 491",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_492",
+    "display_name": "Tool 492",
+    "description": "Generic tool 492",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_493",
+    "display_name": "Tool 493",
+    "description": "Generic tool 493",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_494",
+    "display_name": "Tool 494",
+    "description": "Generic tool 494",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_495",
+    "display_name": "Tool 495",
+    "description": "Generic tool 495",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_496",
+    "display_name": "Tool 496",
+    "description": "Generic tool 496",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_497",
+    "display_name": "Tool 497",
+    "description": "Generic tool 497",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_498",
+    "display_name": "Tool 498",
+    "description": "Generic tool 498",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_499",
+    "display_name": "Tool 499",
+    "description": "Generic tool 499",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_500",
+    "display_name": "Tool 500",
+    "description": "Generic tool 500",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_501",
+    "display_name": "Tool 501",
+    "description": "Generic tool 501",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_502",
+    "display_name": "Tool 502",
+    "description": "Generic tool 502",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_503",
+    "display_name": "Tool 503",
+    "description": "Generic tool 503",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_504",
+    "display_name": "Tool 504",
+    "description": "Generic tool 504",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_505",
+    "display_name": "Tool 505",
+    "description": "Generic tool 505",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_506",
+    "display_name": "Tool 506",
+    "description": "Generic tool 506",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_507",
+    "display_name": "Tool 507",
+    "description": "Generic tool 507",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_508",
+    "display_name": "Tool 508",
+    "description": "Generic tool 508",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_509",
+    "display_name": "Tool 509",
+    "description": "Generic tool 509",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_510",
+    "display_name": "Tool 510",
+    "description": "Generic tool 510",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_511",
+    "display_name": "Tool 511",
+    "description": "Generic tool 511",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_512",
+    "display_name": "Tool 512",
+    "description": "Generic tool 512",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_513",
+    "display_name": "Tool 513",
+    "description": "Generic tool 513",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_514",
+    "display_name": "Tool 514",
+    "description": "Generic tool 514",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_515",
+    "display_name": "Tool 515",
+    "description": "Generic tool 515",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_516",
+    "display_name": "Tool 516",
+    "description": "Generic tool 516",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_517",
+    "display_name": "Tool 517",
+    "description": "Generic tool 517",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_518",
+    "display_name": "Tool 518",
+    "description": "Generic tool 518",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_519",
+    "display_name": "Tool 519",
+    "description": "Generic tool 519",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_520",
+    "display_name": "Tool 520",
+    "description": "Generic tool 520",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_521",
+    "display_name": "Tool 521",
+    "description": "Generic tool 521",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_522",
+    "display_name": "Tool 522",
+    "description": "Generic tool 522",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_523",
+    "display_name": "Tool 523",
+    "description": "Generic tool 523",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_524",
+    "display_name": "Tool 524",
+    "description": "Generic tool 524",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_525",
+    "display_name": "Tool 525",
+    "description": "Generic tool 525",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_526",
+    "display_name": "Tool 526",
+    "description": "Generic tool 526",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_527",
+    "display_name": "Tool 527",
+    "description": "Generic tool 527",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_528",
+    "display_name": "Tool 528",
+    "description": "Generic tool 528",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_529",
+    "display_name": "Tool 529",
+    "description": "Generic tool 529",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_530",
+    "display_name": "Tool 530",
+    "description": "Generic tool 530",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_531",
+    "display_name": "Tool 531",
+    "description": "Generic tool 531",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_532",
+    "display_name": "Tool 532",
+    "description": "Generic tool 532",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_533",
+    "display_name": "Tool 533",
+    "description": "Generic tool 533",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_534",
+    "display_name": "Tool 534",
+    "description": "Generic tool 534",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_535",
+    "display_name": "Tool 535",
+    "description": "Generic tool 535",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_536",
+    "display_name": "Tool 536",
+    "description": "Generic tool 536",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_537",
+    "display_name": "Tool 537",
+    "description": "Generic tool 537",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_538",
+    "display_name": "Tool 538",
+    "description": "Generic tool 538",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_539",
+    "display_name": "Tool 539",
+    "description": "Generic tool 539",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_540",
+    "display_name": "Tool 540",
+    "description": "Generic tool 540",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_541",
+    "display_name": "Tool 541",
+    "description": "Generic tool 541",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_542",
+    "display_name": "Tool 542",
+    "description": "Generic tool 542",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_543",
+    "display_name": "Tool 543",
+    "description": "Generic tool 543",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_544",
+    "display_name": "Tool 544",
+    "description": "Generic tool 544",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_545",
+    "display_name": "Tool 545",
+    "description": "Generic tool 545",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_546",
+    "display_name": "Tool 546",
+    "description": "Generic tool 546",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_547",
+    "display_name": "Tool 547",
+    "description": "Generic tool 547",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_548",
+    "display_name": "Tool 548",
+    "description": "Generic tool 548",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_549",
+    "display_name": "Tool 549",
+    "description": "Generic tool 549",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_550",
+    "display_name": "Tool 550",
+    "description": "Generic tool 550",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_551",
+    "display_name": "Tool 551",
+    "description": "Generic tool 551",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_552",
+    "display_name": "Tool 552",
+    "description": "Generic tool 552",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_553",
+    "display_name": "Tool 553",
+    "description": "Generic tool 553",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_554",
+    "display_name": "Tool 554",
+    "description": "Generic tool 554",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_555",
+    "display_name": "Tool 555",
+    "description": "Generic tool 555",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_556",
+    "display_name": "Tool 556",
+    "description": "Generic tool 556",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_557",
+    "display_name": "Tool 557",
+    "description": "Generic tool 557",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_558",
+    "display_name": "Tool 558",
+    "description": "Generic tool 558",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_559",
+    "display_name": "Tool 559",
+    "description": "Generic tool 559",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_560",
+    "display_name": "Tool 560",
+    "description": "Generic tool 560",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_561",
+    "display_name": "Tool 561",
+    "description": "Generic tool 561",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_562",
+    "display_name": "Tool 562",
+    "description": "Generic tool 562",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_563",
+    "display_name": "Tool 563",
+    "description": "Generic tool 563",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_564",
+    "display_name": "Tool 564",
+    "description": "Generic tool 564",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_565",
+    "display_name": "Tool 565",
+    "description": "Generic tool 565",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_566",
+    "display_name": "Tool 566",
+    "description": "Generic tool 566",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_567",
+    "display_name": "Tool 567",
+    "description": "Generic tool 567",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_568",
+    "display_name": "Tool 568",
+    "description": "Generic tool 568",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_569",
+    "display_name": "Tool 569",
+    "description": "Generic tool 569",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_570",
+    "display_name": "Tool 570",
+    "description": "Generic tool 570",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_571",
+    "display_name": "Tool 571",
+    "description": "Generic tool 571",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_572",
+    "display_name": "Tool 572",
+    "description": "Generic tool 572",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_573",
+    "display_name": "Tool 573",
+    "description": "Generic tool 573",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_574",
+    "display_name": "Tool 574",
+    "description": "Generic tool 574",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_575",
+    "display_name": "Tool 575",
+    "description": "Generic tool 575",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_576",
+    "display_name": "Tool 576",
+    "description": "Generic tool 576",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_577",
+    "display_name": "Tool 577",
+    "description": "Generic tool 577",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_578",
+    "display_name": "Tool 578",
+    "description": "Generic tool 578",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_579",
+    "display_name": "Tool 579",
+    "description": "Generic tool 579",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_580",
+    "display_name": "Tool 580",
+    "description": "Generic tool 580",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_581",
+    "display_name": "Tool 581",
+    "description": "Generic tool 581",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_582",
+    "display_name": "Tool 582",
+    "description": "Generic tool 582",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_583",
+    "display_name": "Tool 583",
+    "description": "Generic tool 583",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_584",
+    "display_name": "Tool 584",
+    "description": "Generic tool 584",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_585",
+    "display_name": "Tool 585",
+    "description": "Generic tool 585",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_586",
+    "display_name": "Tool 586",
+    "description": "Generic tool 586",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_587",
+    "display_name": "Tool 587",
+    "description": "Generic tool 587",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_588",
+    "display_name": "Tool 588",
+    "description": "Generic tool 588",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_589",
+    "display_name": "Tool 589",
+    "description": "Generic tool 589",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_590",
+    "display_name": "Tool 590",
+    "description": "Generic tool 590",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_591",
+    "display_name": "Tool 591",
+    "description": "Generic tool 591",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_592",
+    "display_name": "Tool 592",
+    "description": "Generic tool 592",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_593",
+    "display_name": "Tool 593",
+    "description": "Generic tool 593",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_594",
+    "display_name": "Tool 594",
+    "description": "Generic tool 594",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_595",
+    "display_name": "Tool 595",
+    "description": "Generic tool 595",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_596",
+    "display_name": "Tool 596",
+    "description": "Generic tool 596",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_597",
+    "display_name": "Tool 597",
+    "description": "Generic tool 597",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_598",
+    "display_name": "Tool 598",
+    "description": "Generic tool 598",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_599",
+    "display_name": "Tool 599",
+    "description": "Generic tool 599",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_600",
+    "display_name": "Tool 600",
+    "description": "Generic tool 600",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_601",
+    "display_name": "Tool 601",
+    "description": "Generic tool 601",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_602",
+    "display_name": "Tool 602",
+    "description": "Generic tool 602",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_603",
+    "display_name": "Tool 603",
+    "description": "Generic tool 603",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_604",
+    "display_name": "Tool 604",
+    "description": "Generic tool 604",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_605",
+    "display_name": "Tool 605",
+    "description": "Generic tool 605",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_606",
+    "display_name": "Tool 606",
+    "description": "Generic tool 606",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_607",
+    "display_name": "Tool 607",
+    "description": "Generic tool 607",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_608",
+    "display_name": "Tool 608",
+    "description": "Generic tool 608",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_609",
+    "display_name": "Tool 609",
+    "description": "Generic tool 609",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_610",
+    "display_name": "Tool 610",
+    "description": "Generic tool 610",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_611",
+    "display_name": "Tool 611",
+    "description": "Generic tool 611",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_612",
+    "display_name": "Tool 612",
+    "description": "Generic tool 612",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_613",
+    "display_name": "Tool 613",
+    "description": "Generic tool 613",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_614",
+    "display_name": "Tool 614",
+    "description": "Generic tool 614",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_615",
+    "display_name": "Tool 615",
+    "description": "Generic tool 615",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_616",
+    "display_name": "Tool 616",
+    "description": "Generic tool 616",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_617",
+    "display_name": "Tool 617",
+    "description": "Generic tool 617",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_618",
+    "display_name": "Tool 618",
+    "description": "Generic tool 618",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_619",
+    "display_name": "Tool 619",
+    "description": "Generic tool 619",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_620",
+    "display_name": "Tool 620",
+    "description": "Generic tool 620",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_621",
+    "display_name": "Tool 621",
+    "description": "Generic tool 621",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_622",
+    "display_name": "Tool 622",
+    "description": "Generic tool 622",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_623",
+    "display_name": "Tool 623",
+    "description": "Generic tool 623",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_624",
+    "display_name": "Tool 624",
+    "description": "Generic tool 624",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_625",
+    "display_name": "Tool 625",
+    "description": "Generic tool 625",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_626",
+    "display_name": "Tool 626",
+    "description": "Generic tool 626",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_627",
+    "display_name": "Tool 627",
+    "description": "Generic tool 627",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_628",
+    "display_name": "Tool 628",
+    "description": "Generic tool 628",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_629",
+    "display_name": "Tool 629",
+    "description": "Generic tool 629",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_630",
+    "display_name": "Tool 630",
+    "description": "Generic tool 630",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_631",
+    "display_name": "Tool 631",
+    "description": "Generic tool 631",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_632",
+    "display_name": "Tool 632",
+    "description": "Generic tool 632",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_633",
+    "display_name": "Tool 633",
+    "description": "Generic tool 633",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_634",
+    "display_name": "Tool 634",
+    "description": "Generic tool 634",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_635",
+    "display_name": "Tool 635",
+    "description": "Generic tool 635",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_636",
+    "display_name": "Tool 636",
+    "description": "Generic tool 636",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_637",
+    "display_name": "Tool 637",
+    "description": "Generic tool 637",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_638",
+    "display_name": "Tool 638",
+    "description": "Generic tool 638",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_639",
+    "display_name": "Tool 639",
+    "description": "Generic tool 639",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_640",
+    "display_name": "Tool 640",
+    "description": "Generic tool 640",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_641",
+    "display_name": "Tool 641",
+    "description": "Generic tool 641",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_642",
+    "display_name": "Tool 642",
+    "description": "Generic tool 642",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_643",
+    "display_name": "Tool 643",
+    "description": "Generic tool 643",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_644",
+    "display_name": "Tool 644",
+    "description": "Generic tool 644",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_645",
+    "display_name": "Tool 645",
+    "description": "Generic tool 645",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_646",
+    "display_name": "Tool 646",
+    "description": "Generic tool 646",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_647",
+    "display_name": "Tool 647",
+    "description": "Generic tool 647",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_648",
+    "display_name": "Tool 648",
+    "description": "Generic tool 648",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_649",
+    "display_name": "Tool 649",
+    "description": "Generic tool 649",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_650",
+    "display_name": "Tool 650",
+    "description": "Generic tool 650",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_651",
+    "display_name": "Tool 651",
+    "description": "Generic tool 651",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_652",
+    "display_name": "Tool 652",
+    "description": "Generic tool 652",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_653",
+    "display_name": "Tool 653",
+    "description": "Generic tool 653",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_654",
+    "display_name": "Tool 654",
+    "description": "Generic tool 654",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_655",
+    "display_name": "Tool 655",
+    "description": "Generic tool 655",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_656",
+    "display_name": "Tool 656",
+    "description": "Generic tool 656",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_657",
+    "display_name": "Tool 657",
+    "description": "Generic tool 657",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_658",
+    "display_name": "Tool 658",
+    "description": "Generic tool 658",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_659",
+    "display_name": "Tool 659",
+    "description": "Generic tool 659",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_660",
+    "display_name": "Tool 660",
+    "description": "Generic tool 660",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_661",
+    "display_name": "Tool 661",
+    "description": "Generic tool 661",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_662",
+    "display_name": "Tool 662",
+    "description": "Generic tool 662",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_663",
+    "display_name": "Tool 663",
+    "description": "Generic tool 663",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_664",
+    "display_name": "Tool 664",
+    "description": "Generic tool 664",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_665",
+    "display_name": "Tool 665",
+    "description": "Generic tool 665",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_666",
+    "display_name": "Tool 666",
+    "description": "Generic tool 666",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_667",
+    "display_name": "Tool 667",
+    "description": "Generic tool 667",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_668",
+    "display_name": "Tool 668",
+    "description": "Generic tool 668",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_669",
+    "display_name": "Tool 669",
+    "description": "Generic tool 669",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_670",
+    "display_name": "Tool 670",
+    "description": "Generic tool 670",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_671",
+    "display_name": "Tool 671",
+    "description": "Generic tool 671",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_672",
+    "display_name": "Tool 672",
+    "description": "Generic tool 672",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_673",
+    "display_name": "Tool 673",
+    "description": "Generic tool 673",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_674",
+    "display_name": "Tool 674",
+    "description": "Generic tool 674",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_675",
+    "display_name": "Tool 675",
+    "description": "Generic tool 675",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_676",
+    "display_name": "Tool 676",
+    "description": "Generic tool 676",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_677",
+    "display_name": "Tool 677",
+    "description": "Generic tool 677",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_678",
+    "display_name": "Tool 678",
+    "description": "Generic tool 678",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_679",
+    "display_name": "Tool 679",
+    "description": "Generic tool 679",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_680",
+    "display_name": "Tool 680",
+    "description": "Generic tool 680",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_681",
+    "display_name": "Tool 681",
+    "description": "Generic tool 681",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_682",
+    "display_name": "Tool 682",
+    "description": "Generic tool 682",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_683",
+    "display_name": "Tool 683",
+    "description": "Generic tool 683",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_684",
+    "display_name": "Tool 684",
+    "description": "Generic tool 684",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_685",
+    "display_name": "Tool 685",
+    "description": "Generic tool 685",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_686",
+    "display_name": "Tool 686",
+    "description": "Generic tool 686",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_687",
+    "display_name": "Tool 687",
+    "description": "Generic tool 687",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_688",
+    "display_name": "Tool 688",
+    "description": "Generic tool 688",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_689",
+    "display_name": "Tool 689",
+    "description": "Generic tool 689",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_690",
+    "display_name": "Tool 690",
+    "description": "Generic tool 690",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_691",
+    "display_name": "Tool 691",
+    "description": "Generic tool 691",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_692",
+    "display_name": "Tool 692",
+    "description": "Generic tool 692",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_693",
+    "display_name": "Tool 693",
+    "description": "Generic tool 693",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_694",
+    "display_name": "Tool 694",
+    "description": "Generic tool 694",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_695",
+    "display_name": "Tool 695",
+    "description": "Generic tool 695",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_696",
+    "display_name": "Tool 696",
+    "description": "Generic tool 696",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_697",
+    "display_name": "Tool 697",
+    "description": "Generic tool 697",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_698",
+    "display_name": "Tool 698",
+    "description": "Generic tool 698",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_699",
+    "display_name": "Tool 699",
+    "description": "Generic tool 699",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_700",
+    "display_name": "Tool 700",
+    "description": "Generic tool 700",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_701",
+    "display_name": "Tool 701",
+    "description": "Generic tool 701",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_702",
+    "display_name": "Tool 702",
+    "description": "Generic tool 702",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_703",
+    "display_name": "Tool 703",
+    "description": "Generic tool 703",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_704",
+    "display_name": "Tool 704",
+    "description": "Generic tool 704",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_705",
+    "display_name": "Tool 705",
+    "description": "Generic tool 705",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_706",
+    "display_name": "Tool 706",
+    "description": "Generic tool 706",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_707",
+    "display_name": "Tool 707",
+    "description": "Generic tool 707",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_708",
+    "display_name": "Tool 708",
+    "description": "Generic tool 708",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_709",
+    "display_name": "Tool 709",
+    "description": "Generic tool 709",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_710",
+    "display_name": "Tool 710",
+    "description": "Generic tool 710",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_711",
+    "display_name": "Tool 711",
+    "description": "Generic tool 711",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_712",
+    "display_name": "Tool 712",
+    "description": "Generic tool 712",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_713",
+    "display_name": "Tool 713",
+    "description": "Generic tool 713",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_714",
+    "display_name": "Tool 714",
+    "description": "Generic tool 714",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_715",
+    "display_name": "Tool 715",
+    "description": "Generic tool 715",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_716",
+    "display_name": "Tool 716",
+    "description": "Generic tool 716",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_717",
+    "display_name": "Tool 717",
+    "description": "Generic tool 717",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_718",
+    "display_name": "Tool 718",
+    "description": "Generic tool 718",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_719",
+    "display_name": "Tool 719",
+    "description": "Generic tool 719",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_720",
+    "display_name": "Tool 720",
+    "description": "Generic tool 720",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_721",
+    "display_name": "Tool 721",
+    "description": "Generic tool 721",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_722",
+    "display_name": "Tool 722",
+    "description": "Generic tool 722",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_723",
+    "display_name": "Tool 723",
+    "description": "Generic tool 723",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_724",
+    "display_name": "Tool 724",
+    "description": "Generic tool 724",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_725",
+    "display_name": "Tool 725",
+    "description": "Generic tool 725",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_726",
+    "display_name": "Tool 726",
+    "description": "Generic tool 726",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_727",
+    "display_name": "Tool 727",
+    "description": "Generic tool 727",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_728",
+    "display_name": "Tool 728",
+    "description": "Generic tool 728",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_729",
+    "display_name": "Tool 729",
+    "description": "Generic tool 729",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_730",
+    "display_name": "Tool 730",
+    "description": "Generic tool 730",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_731",
+    "display_name": "Tool 731",
+    "description": "Generic tool 731",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_732",
+    "display_name": "Tool 732",
+    "description": "Generic tool 732",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_733",
+    "display_name": "Tool 733",
+    "description": "Generic tool 733",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_734",
+    "display_name": "Tool 734",
+    "description": "Generic tool 734",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_735",
+    "display_name": "Tool 735",
+    "description": "Generic tool 735",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_736",
+    "display_name": "Tool 736",
+    "description": "Generic tool 736",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_737",
+    "display_name": "Tool 737",
+    "description": "Generic tool 737",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_738",
+    "display_name": "Tool 738",
+    "description": "Generic tool 738",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_739",
+    "display_name": "Tool 739",
+    "description": "Generic tool 739",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_740",
+    "display_name": "Tool 740",
+    "description": "Generic tool 740",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_741",
+    "display_name": "Tool 741",
+    "description": "Generic tool 741",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_742",
+    "display_name": "Tool 742",
+    "description": "Generic tool 742",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_743",
+    "display_name": "Tool 743",
+    "description": "Generic tool 743",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_744",
+    "display_name": "Tool 744",
+    "description": "Generic tool 744",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_745",
+    "display_name": "Tool 745",
+    "description": "Generic tool 745",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_746",
+    "display_name": "Tool 746",
+    "description": "Generic tool 746",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_747",
+    "display_name": "Tool 747",
+    "description": "Generic tool 747",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_748",
+    "display_name": "Tool 748",
+    "description": "Generic tool 748",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_749",
+    "display_name": "Tool 749",
+    "description": "Generic tool 749",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_750",
+    "display_name": "Tool 750",
+    "description": "Generic tool 750",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_751",
+    "display_name": "Tool 751",
+    "description": "Generic tool 751",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_752",
+    "display_name": "Tool 752",
+    "description": "Generic tool 752",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_753",
+    "display_name": "Tool 753",
+    "description": "Generic tool 753",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_754",
+    "display_name": "Tool 754",
+    "description": "Generic tool 754",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_755",
+    "display_name": "Tool 755",
+    "description": "Generic tool 755",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_756",
+    "display_name": "Tool 756",
+    "description": "Generic tool 756",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_757",
+    "display_name": "Tool 757",
+    "description": "Generic tool 757",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_758",
+    "display_name": "Tool 758",
+    "description": "Generic tool 758",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_759",
+    "display_name": "Tool 759",
+    "description": "Generic tool 759",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_760",
+    "display_name": "Tool 760",
+    "description": "Generic tool 760",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_761",
+    "display_name": "Tool 761",
+    "description": "Generic tool 761",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_762",
+    "display_name": "Tool 762",
+    "description": "Generic tool 762",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_763",
+    "display_name": "Tool 763",
+    "description": "Generic tool 763",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_764",
+    "display_name": "Tool 764",
+    "description": "Generic tool 764",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_765",
+    "display_name": "Tool 765",
+    "description": "Generic tool 765",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_766",
+    "display_name": "Tool 766",
+    "description": "Generic tool 766",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_767",
+    "display_name": "Tool 767",
+    "description": "Generic tool 767",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_768",
+    "display_name": "Tool 768",
+    "description": "Generic tool 768",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_769",
+    "display_name": "Tool 769",
+    "description": "Generic tool 769",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_770",
+    "display_name": "Tool 770",
+    "description": "Generic tool 770",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_771",
+    "display_name": "Tool 771",
+    "description": "Generic tool 771",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_772",
+    "display_name": "Tool 772",
+    "description": "Generic tool 772",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_773",
+    "display_name": "Tool 773",
+    "description": "Generic tool 773",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_774",
+    "display_name": "Tool 774",
+    "description": "Generic tool 774",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_775",
+    "display_name": "Tool 775",
+    "description": "Generic tool 775",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_776",
+    "display_name": "Tool 776",
+    "description": "Generic tool 776",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_777",
+    "display_name": "Tool 777",
+    "description": "Generic tool 777",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_778",
+    "display_name": "Tool 778",
+    "description": "Generic tool 778",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_779",
+    "display_name": "Tool 779",
+    "description": "Generic tool 779",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_780",
+    "display_name": "Tool 780",
+    "description": "Generic tool 780",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_781",
+    "display_name": "Tool 781",
+    "description": "Generic tool 781",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_782",
+    "display_name": "Tool 782",
+    "description": "Generic tool 782",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_783",
+    "display_name": "Tool 783",
+    "description": "Generic tool 783",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_784",
+    "display_name": "Tool 784",
+    "description": "Generic tool 784",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_785",
+    "display_name": "Tool 785",
+    "description": "Generic tool 785",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_786",
+    "display_name": "Tool 786",
+    "description": "Generic tool 786",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_787",
+    "display_name": "Tool 787",
+    "description": "Generic tool 787",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_788",
+    "display_name": "Tool 788",
+    "description": "Generic tool 788",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_789",
+    "display_name": "Tool 789",
+    "description": "Generic tool 789",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_790",
+    "display_name": "Tool 790",
+    "description": "Generic tool 790",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_791",
+    "display_name": "Tool 791",
+    "description": "Generic tool 791",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_792",
+    "display_name": "Tool 792",
+    "description": "Generic tool 792",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_793",
+    "display_name": "Tool 793",
+    "description": "Generic tool 793",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_794",
+    "display_name": "Tool 794",
+    "description": "Generic tool 794",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_795",
+    "display_name": "Tool 795",
+    "description": "Generic tool 795",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_796",
+    "display_name": "Tool 796",
+    "description": "Generic tool 796",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_797",
+    "display_name": "Tool 797",
+    "description": "Generic tool 797",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_798",
+    "display_name": "Tool 798",
+    "description": "Generic tool 798",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_799",
+    "display_name": "Tool 799",
+    "description": "Generic tool 799",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_800",
+    "display_name": "Tool 800",
+    "description": "Generic tool 800",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_801",
+    "display_name": "Tool 801",
+    "description": "Generic tool 801",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_802",
+    "display_name": "Tool 802",
+    "description": "Generic tool 802",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_803",
+    "display_name": "Tool 803",
+    "description": "Generic tool 803",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_804",
+    "display_name": "Tool 804",
+    "description": "Generic tool 804",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_805",
+    "display_name": "Tool 805",
+    "description": "Generic tool 805",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_806",
+    "display_name": "Tool 806",
+    "description": "Generic tool 806",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_807",
+    "display_name": "Tool 807",
+    "description": "Generic tool 807",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_808",
+    "display_name": "Tool 808",
+    "description": "Generic tool 808",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_809",
+    "display_name": "Tool 809",
+    "description": "Generic tool 809",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_810",
+    "display_name": "Tool 810",
+    "description": "Generic tool 810",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_811",
+    "display_name": "Tool 811",
+    "description": "Generic tool 811",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_812",
+    "display_name": "Tool 812",
+    "description": "Generic tool 812",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_813",
+    "display_name": "Tool 813",
+    "description": "Generic tool 813",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_814",
+    "display_name": "Tool 814",
+    "description": "Generic tool 814",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_815",
+    "display_name": "Tool 815",
+    "description": "Generic tool 815",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_816",
+    "display_name": "Tool 816",
+    "description": "Generic tool 816",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_817",
+    "display_name": "Tool 817",
+    "description": "Generic tool 817",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_818",
+    "display_name": "Tool 818",
+    "description": "Generic tool 818",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_819",
+    "display_name": "Tool 819",
+    "description": "Generic tool 819",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_820",
+    "display_name": "Tool 820",
+    "description": "Generic tool 820",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_821",
+    "display_name": "Tool 821",
+    "description": "Generic tool 821",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_822",
+    "display_name": "Tool 822",
+    "description": "Generic tool 822",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_823",
+    "display_name": "Tool 823",
+    "description": "Generic tool 823",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_824",
+    "display_name": "Tool 824",
+    "description": "Generic tool 824",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_825",
+    "display_name": "Tool 825",
+    "description": "Generic tool 825",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_826",
+    "display_name": "Tool 826",
+    "description": "Generic tool 826",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_827",
+    "display_name": "Tool 827",
+    "description": "Generic tool 827",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_828",
+    "display_name": "Tool 828",
+    "description": "Generic tool 828",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_829",
+    "display_name": "Tool 829",
+    "description": "Generic tool 829",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_830",
+    "display_name": "Tool 830",
+    "description": "Generic tool 830",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_831",
+    "display_name": "Tool 831",
+    "description": "Generic tool 831",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_832",
+    "display_name": "Tool 832",
+    "description": "Generic tool 832",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_833",
+    "display_name": "Tool 833",
+    "description": "Generic tool 833",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_834",
+    "display_name": "Tool 834",
+    "description": "Generic tool 834",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_835",
+    "display_name": "Tool 835",
+    "description": "Generic tool 835",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_836",
+    "display_name": "Tool 836",
+    "description": "Generic tool 836",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_837",
+    "display_name": "Tool 837",
+    "description": "Generic tool 837",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_838",
+    "display_name": "Tool 838",
+    "description": "Generic tool 838",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_839",
+    "display_name": "Tool 839",
+    "description": "Generic tool 839",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_840",
+    "display_name": "Tool 840",
+    "description": "Generic tool 840",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_841",
+    "display_name": "Tool 841",
+    "description": "Generic tool 841",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_842",
+    "display_name": "Tool 842",
+    "description": "Generic tool 842",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_843",
+    "display_name": "Tool 843",
+    "description": "Generic tool 843",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_844",
+    "display_name": "Tool 844",
+    "description": "Generic tool 844",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_845",
+    "display_name": "Tool 845",
+    "description": "Generic tool 845",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_846",
+    "display_name": "Tool 846",
+    "description": "Generic tool 846",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_847",
+    "display_name": "Tool 847",
+    "description": "Generic tool 847",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_848",
+    "display_name": "Tool 848",
+    "description": "Generic tool 848",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_849",
+    "display_name": "Tool 849",
+    "description": "Generic tool 849",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_850",
+    "display_name": "Tool 850",
+    "description": "Generic tool 850",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_851",
+    "display_name": "Tool 851",
+    "description": "Generic tool 851",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_852",
+    "display_name": "Tool 852",
+    "description": "Generic tool 852",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_853",
+    "display_name": "Tool 853",
+    "description": "Generic tool 853",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_854",
+    "display_name": "Tool 854",
+    "description": "Generic tool 854",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_855",
+    "display_name": "Tool 855",
+    "description": "Generic tool 855",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_856",
+    "display_name": "Tool 856",
+    "description": "Generic tool 856",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_857",
+    "display_name": "Tool 857",
+    "description": "Generic tool 857",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_858",
+    "display_name": "Tool 858",
+    "description": "Generic tool 858",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_859",
+    "display_name": "Tool 859",
+    "description": "Generic tool 859",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_860",
+    "display_name": "Tool 860",
+    "description": "Generic tool 860",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_861",
+    "display_name": "Tool 861",
+    "description": "Generic tool 861",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_862",
+    "display_name": "Tool 862",
+    "description": "Generic tool 862",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_863",
+    "display_name": "Tool 863",
+    "description": "Generic tool 863",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_864",
+    "display_name": "Tool 864",
+    "description": "Generic tool 864",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_865",
+    "display_name": "Tool 865",
+    "description": "Generic tool 865",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_866",
+    "display_name": "Tool 866",
+    "description": "Generic tool 866",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_867",
+    "display_name": "Tool 867",
+    "description": "Generic tool 867",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_868",
+    "display_name": "Tool 868",
+    "description": "Generic tool 868",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_869",
+    "display_name": "Tool 869",
+    "description": "Generic tool 869",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_870",
+    "display_name": "Tool 870",
+    "description": "Generic tool 870",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_871",
+    "display_name": "Tool 871",
+    "description": "Generic tool 871",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_872",
+    "display_name": "Tool 872",
+    "description": "Generic tool 872",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_873",
+    "display_name": "Tool 873",
+    "description": "Generic tool 873",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_874",
+    "display_name": "Tool 874",
+    "description": "Generic tool 874",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_875",
+    "display_name": "Tool 875",
+    "description": "Generic tool 875",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_876",
+    "display_name": "Tool 876",
+    "description": "Generic tool 876",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_877",
+    "display_name": "Tool 877",
+    "description": "Generic tool 877",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_878",
+    "display_name": "Tool 878",
+    "description": "Generic tool 878",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_879",
+    "display_name": "Tool 879",
+    "description": "Generic tool 879",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_880",
+    "display_name": "Tool 880",
+    "description": "Generic tool 880",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_881",
+    "display_name": "Tool 881",
+    "description": "Generic tool 881",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_882",
+    "display_name": "Tool 882",
+    "description": "Generic tool 882",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_883",
+    "display_name": "Tool 883",
+    "description": "Generic tool 883",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_884",
+    "display_name": "Tool 884",
+    "description": "Generic tool 884",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_885",
+    "display_name": "Tool 885",
+    "description": "Generic tool 885",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_886",
+    "display_name": "Tool 886",
+    "description": "Generic tool 886",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_887",
+    "display_name": "Tool 887",
+    "description": "Generic tool 887",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_888",
+    "display_name": "Tool 888",
+    "description": "Generic tool 888",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_889",
+    "display_name": "Tool 889",
+    "description": "Generic tool 889",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_890",
+    "display_name": "Tool 890",
+    "description": "Generic tool 890",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_891",
+    "display_name": "Tool 891",
+    "description": "Generic tool 891",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_892",
+    "display_name": "Tool 892",
+    "description": "Generic tool 892",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_893",
+    "display_name": "Tool 893",
+    "description": "Generic tool 893",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_894",
+    "display_name": "Tool 894",
+    "description": "Generic tool 894",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_895",
+    "display_name": "Tool 895",
+    "description": "Generic tool 895",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_896",
+    "display_name": "Tool 896",
+    "description": "Generic tool 896",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_897",
+    "display_name": "Tool 897",
+    "description": "Generic tool 897",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_898",
+    "display_name": "Tool 898",
+    "description": "Generic tool 898",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_899",
+    "display_name": "Tool 899",
+    "description": "Generic tool 899",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_900",
+    "display_name": "Tool 900",
+    "description": "Generic tool 900",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_901",
+    "display_name": "Tool 901",
+    "description": "Generic tool 901",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_902",
+    "display_name": "Tool 902",
+    "description": "Generic tool 902",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_903",
+    "display_name": "Tool 903",
+    "description": "Generic tool 903",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_904",
+    "display_name": "Tool 904",
+    "description": "Generic tool 904",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_905",
+    "display_name": "Tool 905",
+    "description": "Generic tool 905",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_906",
+    "display_name": "Tool 906",
+    "description": "Generic tool 906",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_907",
+    "display_name": "Tool 907",
+    "description": "Generic tool 907",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_908",
+    "display_name": "Tool 908",
+    "description": "Generic tool 908",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_909",
+    "display_name": "Tool 909",
+    "description": "Generic tool 909",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_910",
+    "display_name": "Tool 910",
+    "description": "Generic tool 910",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_911",
+    "display_name": "Tool 911",
+    "description": "Generic tool 911",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_912",
+    "display_name": "Tool 912",
+    "description": "Generic tool 912",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_913",
+    "display_name": "Tool 913",
+    "description": "Generic tool 913",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_914",
+    "display_name": "Tool 914",
+    "description": "Generic tool 914",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_915",
+    "display_name": "Tool 915",
+    "description": "Generic tool 915",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_916",
+    "display_name": "Tool 916",
+    "description": "Generic tool 916",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_917",
+    "display_name": "Tool 917",
+    "description": "Generic tool 917",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_918",
+    "display_name": "Tool 918",
+    "description": "Generic tool 918",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_919",
+    "display_name": "Tool 919",
+    "description": "Generic tool 919",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_920",
+    "display_name": "Tool 920",
+    "description": "Generic tool 920",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_921",
+    "display_name": "Tool 921",
+    "description": "Generic tool 921",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_922",
+    "display_name": "Tool 922",
+    "description": "Generic tool 922",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_923",
+    "display_name": "Tool 923",
+    "description": "Generic tool 923",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_924",
+    "display_name": "Tool 924",
+    "description": "Generic tool 924",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_925",
+    "display_name": "Tool 925",
+    "description": "Generic tool 925",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_926",
+    "display_name": "Tool 926",
+    "description": "Generic tool 926",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_927",
+    "display_name": "Tool 927",
+    "description": "Generic tool 927",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_928",
+    "display_name": "Tool 928",
+    "description": "Generic tool 928",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_929",
+    "display_name": "Tool 929",
+    "description": "Generic tool 929",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_930",
+    "display_name": "Tool 930",
+    "description": "Generic tool 930",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_931",
+    "display_name": "Tool 931",
+    "description": "Generic tool 931",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_932",
+    "display_name": "Tool 932",
+    "description": "Generic tool 932",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_933",
+    "display_name": "Tool 933",
+    "description": "Generic tool 933",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_934",
+    "display_name": "Tool 934",
+    "description": "Generic tool 934",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_935",
+    "display_name": "Tool 935",
+    "description": "Generic tool 935",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_936",
+    "display_name": "Tool 936",
+    "description": "Generic tool 936",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_937",
+    "display_name": "Tool 937",
+    "description": "Generic tool 937",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_938",
+    "display_name": "Tool 938",
+    "description": "Generic tool 938",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_939",
+    "display_name": "Tool 939",
+    "description": "Generic tool 939",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_940",
+    "display_name": "Tool 940",
+    "description": "Generic tool 940",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_941",
+    "display_name": "Tool 941",
+    "description": "Generic tool 941",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_942",
+    "display_name": "Tool 942",
+    "description": "Generic tool 942",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_943",
+    "display_name": "Tool 943",
+    "description": "Generic tool 943",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_944",
+    "display_name": "Tool 944",
+    "description": "Generic tool 944",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_945",
+    "display_name": "Tool 945",
+    "description": "Generic tool 945",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_946",
+    "display_name": "Tool 946",
+    "description": "Generic tool 946",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_947",
+    "display_name": "Tool 947",
+    "description": "Generic tool 947",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_948",
+    "display_name": "Tool 948",
+    "description": "Generic tool 948",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_949",
+    "display_name": "Tool 949",
+    "description": "Generic tool 949",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_950",
+    "display_name": "Tool 950",
+    "description": "Generic tool 950",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_951",
+    "display_name": "Tool 951",
+    "description": "Generic tool 951",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_952",
+    "display_name": "Tool 952",
+    "description": "Generic tool 952",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_953",
+    "display_name": "Tool 953",
+    "description": "Generic tool 953",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_954",
+    "display_name": "Tool 954",
+    "description": "Generic tool 954",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_955",
+    "display_name": "Tool 955",
+    "description": "Generic tool 955",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_956",
+    "display_name": "Tool 956",
+    "description": "Generic tool 956",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_957",
+    "display_name": "Tool 957",
+    "description": "Generic tool 957",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_958",
+    "display_name": "Tool 958",
+    "description": "Generic tool 958",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_959",
+    "display_name": "Tool 959",
+    "description": "Generic tool 959",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_960",
+    "display_name": "Tool 960",
+    "description": "Generic tool 960",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_961",
+    "display_name": "Tool 961",
+    "description": "Generic tool 961",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_962",
+    "display_name": "Tool 962",
+    "description": "Generic tool 962",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_963",
+    "display_name": "Tool 963",
+    "description": "Generic tool 963",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_964",
+    "display_name": "Tool 964",
+    "description": "Generic tool 964",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_965",
+    "display_name": "Tool 965",
+    "description": "Generic tool 965",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_966",
+    "display_name": "Tool 966",
+    "description": "Generic tool 966",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_967",
+    "display_name": "Tool 967",
+    "description": "Generic tool 967",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_968",
+    "display_name": "Tool 968",
+    "description": "Generic tool 968",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_969",
+    "display_name": "Tool 969",
+    "description": "Generic tool 969",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_970",
+    "display_name": "Tool 970",
+    "description": "Generic tool 970",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_971",
+    "display_name": "Tool 971",
+    "description": "Generic tool 971",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_972",
+    "display_name": "Tool 972",
+    "description": "Generic tool 972",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_973",
+    "display_name": "Tool 973",
+    "description": "Generic tool 973",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_974",
+    "display_name": "Tool 974",
+    "description": "Generic tool 974",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_975",
+    "display_name": "Tool 975",
+    "description": "Generic tool 975",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_976",
+    "display_name": "Tool 976",
+    "description": "Generic tool 976",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_977",
+    "display_name": "Tool 977",
+    "description": "Generic tool 977",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_978",
+    "display_name": "Tool 978",
+    "description": "Generic tool 978",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_979",
+    "display_name": "Tool 979",
+    "description": "Generic tool 979",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_980",
+    "display_name": "Tool 980",
+    "description": "Generic tool 980",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_981",
+    "display_name": "Tool 981",
+    "description": "Generic tool 981",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_982",
+    "display_name": "Tool 982",
+    "description": "Generic tool 982",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_983",
+    "display_name": "Tool 983",
+    "description": "Generic tool 983",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_984",
+    "display_name": "Tool 984",
+    "description": "Generic tool 984",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_985",
+    "display_name": "Tool 985",
+    "description": "Generic tool 985",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_986",
+    "display_name": "Tool 986",
+    "description": "Generic tool 986",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_987",
+    "display_name": "Tool 987",
+    "description": "Generic tool 987",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_988",
+    "display_name": "Tool 988",
+    "description": "Generic tool 988",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_989",
+    "display_name": "Tool 989",
+    "description": "Generic tool 989",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_990",
+    "display_name": "Tool 990",
+    "description": "Generic tool 990",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_991",
+    "display_name": "Tool 991",
+    "description": "Generic tool 991",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_992",
+    "display_name": "Tool 992",
+    "description": "Generic tool 992",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_993",
+    "display_name": "Tool 993",
+    "description": "Generic tool 993",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_994",
+    "display_name": "Tool 994",
+    "description": "Generic tool 994",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_995",
+    "display_name": "Tool 995",
+    "description": "Generic tool 995",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_996",
+    "display_name": "Tool 996",
+    "description": "Generic tool 996",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_997",
+    "display_name": "Tool 997",
+    "description": "Generic tool 997",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_998",
+    "display_name": "Tool 998",
+    "description": "Generic tool 998",
+    "category": "misc",
+    "params": []
+  },
+  {
+    "name": "tool_999",
+    "display_name": "Tool 999",
+    "description": "Generic tool 999",
+    "category": "misc",
+    "params": []
+  }
+]

@@ -17,6 +17,8 @@ import androidx.compose.animation.core.*
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
@@ -51,23 +53,49 @@ class MainActivity : ComponentActivity() {
         }
     }
 
+    private var showSettings by mutableStateOf(false)
+    private lateinit var cartesiaTTS: com.rudra.assistant.voice.CartesiaTTS
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         
-        // Initialize AI Manager (configure with your API keys)
+        val prefs = getSharedPreferences("rudra_prefs", Context.MODE_PRIVATE)
+        
+        // Initialize AI Manager with saved API keys
+        val lettaKey = prefs.getString("letta_api_key", null)
+        val freedomUrl = prefs.getString("freedomgpt_url", "http://localhost:8889/v1")
+        val aiProvider = prefs.getString("ai_provider", "letta") ?: "letta"
+        
         aiManager = AIManager(
-            lettaApiKey = "your_letta_api_key",
-            freedomGptUrl = "http://localhost:8889/v1"
+            lettaApiKey = lettaKey,
+            freedomGptUrl = freedomUrl,
+            preferredProvider = if (aiProvider == "letta") AIManager.AIProvider.LETTA else AIManager.AIProvider.FREEDOMGPT
         )
 
+        // Initialize Cartesia TTS if API key exists
+        val cartesiaKey = prefs.getString("cartesia_api_key", null)
+        if (cartesiaKey != null) {
+            cartesiaTTS = com.rudra.assistant.voice.CartesiaTTS(cartesiaKey, this)
+        }
+
         setContent {
-            RudraTheme {
-                MainScreen(
-                    isListening = isListening,
-                    statusText = statusText,
-                    onStartListening = { checkPermissionsAndStart() },
-                    onStopListening = { stopListening() }
-                )
+            val currentTheme = prefs.getString("theme", "dark_red") ?: "dark_red"
+            
+            RudraTheme(theme = currentTheme) {
+                if (showSettings) {
+                    com.rudra.assistant.ui.screens.SettingsScreen(
+                        context = this,
+                        onBack = { showSettings = false }
+                    )
+                } else {
+                    MainScreen(
+                        isListening = isListening,
+                        statusText = statusText,
+                        onStartListening = { checkPermissionsAndStart() },
+                        onStopListening = { stopListening() },
+                        onOpenSettings = { showSettings = true }
+                    )
+                }
             }
         }
     }
@@ -195,7 +223,24 @@ class MainActivity : ComponentActivity() {
     }
 
     private fun speak(text: String) {
-        tts?.speak(text, TextToSpeech.QUEUE_FLUSH, null, null)
+        val prefs = getSharedPreferences("rudra_prefs", Context.MODE_PRIVATE)
+        val ttsProvider = prefs.getString("tts_provider", "android") ?: "android"
+        
+        when (ttsProvider) {
+            "cartesia" -> {
+                if (::cartesiaTTS.isInitialized) {
+                    kotlinx.coroutines.GlobalScope.launch {
+                        cartesiaTTS.speak(text)
+                    }
+                } else {
+                    // Fallback to Android TTS
+                    tts?.speak(text, TextToSpeech.QUEUE_FLUSH, null, null)
+                }
+            }
+            else -> {
+                tts?.speak(text, TextToSpeech.QUEUE_FLUSH, null, null)
+            }
+        }
     }
 
     override fun onDestroy() {
@@ -206,16 +251,44 @@ class MainActivity : ComponentActivity() {
 }
 
 @Composable
-fun RudraTheme(content: @Composable () -> Unit) {
-    MaterialTheme(
-        colorScheme = darkColorScheme(
+fun RudraTheme(theme: String = "dark_red", content: @Composable () -> Unit) {
+    val colorScheme = when (theme) {
+        "cyberpunk" -> darkColorScheme(
+            primary = Color.Cyan,
+            background = Color.Black,
+            surface = Color(0xFF1A1A1A),
+            onPrimary = Color.Black,
+            onBackground = Color.Cyan,
+            onSurface = Color.Magenta
+        )
+        "matrix" -> darkColorScheme(
+            primary = Color.Green,
+            background = Color.Black,
+            surface = Color(0xFF001100),
+            onPrimary = Color.Black,
+            onBackground = Color.Green,
+            onSurface = Color.Green
+        )
+        "purple" -> darkColorScheme(
+            primary = Color.Magenta,
+            background = Color(0xFF1A001A),
+            surface = Color(0xFF2A002A),
+            onPrimary = Color.White,
+            onBackground = Color.Magenta,
+            onSurface = Color.Cyan
+        )
+        else -> darkColorScheme( // "dark_red"
             primary = Color.Red,
             background = Color.Black,
             surface = Color(0xFF1A1A1A),
             onPrimary = Color.White,
             onBackground = Color.Green,
             onSurface = Color.Green
-        ),
+        )
+    }
+    
+    MaterialTheme(
+        colorScheme = colorScheme,
         content = content
     )
 }
@@ -225,7 +298,8 @@ fun MainScreen(
     isListening: Boolean,
     statusText: String,
     onStartListening: () -> Unit,
-    onStopListening: () -> Unit
+    onStopListening: () -> Unit,
+    onOpenSettings: () -> Unit = {}
 ) {
     val infiniteTransition = rememberInfiniteTransition(label = "breathing")
     val scale by infiniteTransition.animateFloat(
@@ -238,20 +312,36 @@ fun MainScreen(
         label = "scale"
     )
 
-    Column(
-        modifier = Modifier
-            .fillMaxSize()
-            .background(Color.Black)
-            .padding(24.dp),
-        horizontalAlignment = Alignment.CenterHorizontally,
-        verticalArrangement = Arrangement.Center
-    ) {
-        Text(
-            text = "RUDRA",
-            color = Color.Red,
-            fontSize = 56.sp,
-            fontWeight = FontWeight.Bold
-        )
+    Box(modifier = Modifier.fillMaxSize()) {
+        // Settings button (top-right)
+        IconButton(
+            onClick = onOpenSettings,
+            modifier = Modifier
+                .align(Alignment.TopEnd)
+                .padding(16.dp)
+        ) {
+            Icon(
+                imageVector = androidx.compose.material.icons.Icons.Default.Settings,
+                contentDescription = "Settings",
+                tint = Color.Red,
+                modifier = Modifier.size(32.dp)
+            )
+        }
+        
+        Column(
+            modifier = Modifier
+                .fillMaxSize()
+                .background(Color.Black)
+                .padding(24.dp),
+            horizontalAlignment = Alignment.CenterHorizontally,
+            verticalArrangement = Arrangement.Center
+        ) {
+            Text(
+                text = "RUDRA",
+                color = Color.Red,
+                fontSize = 56.sp,
+                fontWeight = FontWeight.Bold
+            )
         
         Spacer(modifier = Modifier.height(16.dp))
         
@@ -290,6 +380,7 @@ fun MainScreen(
             )
         ) {
             Text(if (isListening) "STOP" else "TAP TO SPEAK")
+        }
         }
     }
 }

@@ -1,0 +1,14 @@
+## This file must be created as 'local.properties' (without .example)
+## for Android Studio / Gradle to find your Android SDK location.
+
+## For Windows:
+# sdk.dir=C\:\\Users\\YourUsername\\AppData\\Local\\Android\\Sdk
+
+## For Mac:
+# sdk.dir=/Users/YourUsername/Library/Android/sdk
+
+## For Linux:
+# sdk.dir=/home/YourUsername/Android/Sdk
+
+## Replace 'YourUsername' with your actual username
+## Remove the '#' at the start of the appropriate line

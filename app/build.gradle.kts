@@ -1,6 +1,6 @@
 plugins {
-    id("com.android.application") version "8.2.0"
-    id("org.jetbrains.kotlin.android") version "1.9.20"
+    id("com.android.application")
+    id("org.jetbrains.kotlin.android")
 }
 
 android {
@@ -13,6 +13,10 @@ android {
         targetSdk = 34
         versionCode = 1
         versionName = "1.0.0"
+
+        vectorDrawables {
+            useSupportLibrary = true
+        }
     }
 
     buildTypes {
@@ -35,7 +39,13 @@ android {
     }
 
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.5.4"
+        kotlinCompilerExtensionVersion = "1.5.5"
+    }
+
+    packaging {
+        resources {
+            excludes += "/META-INF/{AL2.0,LGPL2.1}"
+        }
     }
 }
 
